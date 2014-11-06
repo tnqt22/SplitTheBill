@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Split The Bill</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle">Split The Bill</string>
+    <string name="description">Image</string>
+    <string name="btnStart">Start</string>
+    <string name="txtCredit">Created By Thao</string>
+    <string name="prompt">Quality of Service</string>
+    <string name="txtBill">Total Bill in Dollars</string>
+    <string name="txtPeople">Number of People</string>
+    <string name="btnSplit">Split Your Bill</string>
+    <string-array name="txtGroup">
+        <item >Exellent</item>
+        <item >Average</item>
+        <item >Poor</item>
+    </string-array>
+    <string name="txtCourse">ITEC 4550 - Fall 2014</string>
+
+</resources>
